@@ -14,7 +14,9 @@ body {
     color: white;
     }
    
-    
+    .p {
+        font-size: 50px;
+    }
     .text1 {
         text-align: left;
         border-top: 100px solid #000000;
