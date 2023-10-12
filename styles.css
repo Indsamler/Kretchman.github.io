@@ -13,6 +13,8 @@ body {
         display: block;
     color: white;
     }
+   
+    
     .text1 {
         text-align: left;
         border-top: 100px solid #000000;
@@ -22,14 +24,14 @@ body {
     }
     .text2 {
         text-align: right;
-        border-top: 200px solid #000000;
+        border-top: 100px solid #000000;
         margin-left: 1000px;
         margin-right: 100px;
         display: block;
     }
     .text3 {
         text-align: center;
-        border-top: 400px solid #000000;
+        border-top: 100px solid #000000;
         display: block;
     }
     .footer {
