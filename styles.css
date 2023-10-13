@@ -19,23 +19,27 @@ body {
    
   
     .text1 {
-        text-align: left;
+        text-align: center;
         border-top: 100px solid #000000;
-        margin-left: 100px;
-        margin-right: 800px;
         display: block;
     }
     .text2 {
-        text-align: right;
+        text-align: center;
         border-top: 100px solid #000000;
-        margin-left: 1000px;
-        margin-right: 100px;
+        ;
         display: block;
     }
     .text3 {
         text-align: center;
         border-top: 50px solid #000000;
         display: block;
+    }
+    .photo{
+        background-position: center;
+        border: 10px solid #000000;
+        
+        
+
     }
     .footer {
         text-align: center;
@@ -47,4 +51,10 @@ body {
     footer {
         display: block;
     }
+@media screen and (max-width:750px) {
+    .photo{
+        
+        width: 200px;
     
+    }
+}
